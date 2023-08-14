@@ -9,3 +9,4 @@ if [ 1>2 ]; then
 else
     echo $aa
 fi
+echo Inga
